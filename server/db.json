@@ -1,0 +1,132 @@
+{
+  "products":
+    [{
+      "id": "437b5add-8372-4f99-993f-a6c891501670",
+      "name": "Slt - Individual Portions",
+      "description": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed",
+      "image": "http://dummyimage.com/397x315.png/cc0000/ffffff",
+      "price":"1000"
+    }, {
+      "id": "b9c21f67-bc8e-47e5-8c23-f57b2ef04c38",
+      "name": "Energy Drink - Franks Pineapple",
+      "description": "posuere cubilia curae nulla dapibus dolor vel est donec odio justo",
+      "image": "http://dummyimage.com/399x481.jpg/ff4444/ffffff",
+      "price":"1111"
+    }, {
+      "id": "05a01004-18b4-40de-b405-b0c1eacc12a6",
+      "name": "Quail - Jumbo Boneless",
+      "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis",
+      "image": "http://dummyimage.com/327x310.bmp/dddddd/000000",
+      "price":"1234"
+    }, {
+      "id": "b6850731-bfa6-4f2c-8af4-dd16e27a7352",
+      "name": "Langers - Mango Nectar",
+      "description": "aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue",
+      "image": "http://dummyimage.com/443x335.bmp/ff4444/ffffff",
+      "price":"1112"
+    }, {
+      "id": "fe27285a-6a2a-4a74-9184-5e4528caa942",
+      "name": "Pork - Suckling Pig",
+      "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+      "image": "http://dummyimage.com/361x467.jpg/5fa2dd/ffffff",
+      "price":"1020"
+    }, {
+      "id": "214229ac-a8b4-4071-b555-57dceb2a4f49",
+      "name": "Mushroom - Morels, Dry",
+      "description": "sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",
+      "image": "http://dummyimage.com/382x406.png/5fa2dd/ffffff",
+      "price":"1200"
+    }, {
+      "id": "82e145f4-4b0d-483c-bd40-8fc1c1e0d1b0",
+      "name": "Bread - Multigrain, Loaf",
+      "description": "amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at",
+      "image": "http://dummyimage.com/483x263.jpg/cc0000/ffffff",
+      "price":"1100"
+    }, {
+      "id": "c41e4b5a-8ec1-4d0b-807a-13ee3cedfed7",
+      "name": "Beans - Black Bean, Preserved",
+      "description": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis",
+      "image": "http://dummyimage.com/259x490.png/dddddd/000000",
+      "price":"1001"
+    }, {
+      "id": "3b6a3f21-7380-47eb-8146-d3e546b85d79",
+      "name": "Rabbit - Legs",
+      "description": "in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis",
+      "image": "http://dummyimage.com/318x463.jpg/ff4444/ffffff",
+      "price":"1020"
+    }, {
+      "id": "7eb6d003-c389-4a6b-9a45-7b217fb712b2",
+      "name": "Puree - Pear",
+      "description": "cras in purus eu magna vulputate luctus cum sociis natoque penatibus et",
+      "image": "http://dummyimage.com/452x431.jpg/dddddd/000000",
+      "price":"1003"
+    }, {
+      "id": "4a12b838-f7f2-487c-8a87-08e643d3aea4",
+      "name": "Vermouth - White, Cinzano",
+      "description": "nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac",
+      "image": "http://dummyimage.com/287x309.bmp/cc0000/ffffff",
+      "price":"2000"
+    }, {
+      "id": "2dfb5df5-660a-45c4-98ad-9c3776fab6f1",
+      "name": "Flour - Bread",
+      "description": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",
+      "image": "http://dummyimage.com/385x381.png/cc0000/ffffff",
+      "price":"3000"
+    }, {
+      "id": "92e54542-5bdc-43f1-8c95-8c534f0d0868",
+      "name": "Lobster - Live",
+      "description": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis",
+      "image": "http://dummyimage.com/256x281.png/dddddd/000000",
+      "price":"2100"
+    }, {
+      "id": "238f9895-7454-4f15-9a4d-30a7947b9287",
+      "name": "Nut - Hazelnut, Ground, Natural",
+      "description": "dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum",
+      "image": "http://dummyimage.com/290x460.png/ff4444/ffffff",
+      "price":"3400"
+    }, {
+      "id": "e86f9e04-c583-48a5-8d36-39c8f079014c",
+      "name": "Wine - Alicanca Vinho Verde",
+      "description": "auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo",
+      "image": "http://dummyimage.com/421x260.png/dddddd/000000",
+      "price":"2100"
+    }, {
+      "id": "42dcd1df-7168-48d6-b309-e7eb18a8c7f0",
+      "name": "Pie Pecan",
+      "description": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat",
+      "image": "http://dummyimage.com/291x276.bmp/cc0000/ffffff",
+      "price":"2200"
+    }, {
+      "id": "b3f6e158-a100-4b65-9a4e-ba8ff84f5196",
+      "name": "Flour Dark Rye",
+      "description": "euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec",
+      "image": "http://dummyimage.com/446x306.png/cc0000/ffffff",
+      "price":"1210"
+    }, {
+      "id": "3b9a8778-e452-471d-ae0a-283a72c9af18",
+      "name": "Chef Hat 20cm",
+      "description": "tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+      "image": "http://dummyimage.com/405x275.png/cc0000/ffffff",
+      "price":"2120"
+    }, {
+      "id": "5d1c40ea-90fc-4044-8d23-704d1896fc44",
+      "name": "Cheese - Oka",
+      "description": "pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit",
+      "image": "http://dummyimage.com/338x336.png/5fa2dd/ffffff",
+      "price":"2909"
+    }, {
+      "id": "7094572c-ab3d-40a7-83e7-09fb680d2dfe",
+      "name": "Pastry - Baked Scones - Mini",
+      "description": "duis bibendum morbi non quam nec dui luctus rutrum nulla",
+      "image": "http://dummyimage.com/421x313.png/cc0000/ffffff",
+      "price":"2121"
+    }]
+  ,
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
